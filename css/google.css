@@ -1,0 +1,72 @@
+body {
+    background-color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    background-color: rgb(233, 232, 232);
+    width: 1350px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.bgcolorblue {
+    background-color: #35A29F;
+}
+
+.luckybox {
+    width: 10%;
+    float: left;
+    margin-top: 3px;
+    margin-left: 2px;
+
+}
+.searchbox {
+    width: 10%;
+    float: left;
+    margin-top: 3px;
+    margin-left: 530px;
+    margin-right: 2px;
+}
+
+.firstbox {
+    width: 22%;
+    float: left;
+    margin-right: auto;
+}
+
+.bgcolorone {
+    background-color: #7EE5DA;
+}
+
+.bgcolortwo {
+    background-color: #70CCC2;
+    
+}
+
+.bgcolorthree {
+    background-color: #62B3AA;
+}
+
+.height {
+    height: 95px;
+    width: 447px;
+}
+
+.mr {
+    margin-left: 3px;
+}
+
+.button {
+    margin: 7 5px;
+}
+
+
+
